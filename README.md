@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+{
+  "name": "Bruno Carvalho",
+  "nickname": "boxexa(oak for the english folks)",
+  "version": 1,
+  "role": "JS Dev",
+  "hobbies": [
+    "MTG",
+    "programming",
+    "playing bass"
+  ]
+}
+```
+<div>
+  <a href="https://github.com/barretojs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barretojs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barretojs&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+<div>
